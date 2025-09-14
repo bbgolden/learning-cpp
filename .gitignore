@@ -1,4 +1,2 @@
-*.ilk
-*.obj
-*.pdb
-*.exe
+# auto=gen directory
+build/
